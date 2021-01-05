@@ -8,6 +8,8 @@
 
 * Use `man` to get information on `wc` or to find out what `grep` flags to use.  
 
+* See [here](http://maq.sourceforge.net/fastq.shtml) for information on fastq file format.  
+
 * Using `^` to require a character to be at the beginning of a line or `$` to require something to be at the end of the line can help your `grep` query. For example `grep "A$"` only searches for lines that end with `A`.  
 
 * Use `tr` to change one character into another. The tab character is `"\t"`.  
